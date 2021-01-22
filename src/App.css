@@ -1,6 +1,6 @@
 .result {
   height: 60px;
-  background-color: #bbb;
+  background-color: #FFFF00;
   width: 100%;
 }
 
@@ -17,11 +17,12 @@
 
 .button {
   display: block;
-  background-color: #bbb;
+  background-color: rgb(38, 25, 212);
 }
 
 button {
   width: 25%;
   height: 60px;
   font-size: 30px;
+  background-color: aqua;
 }
